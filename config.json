@@ -1,0 +1,12 @@
+{
+    "config":{
+        "db_prod":"",
+        "db_dev":"",
+        "cloudinary_cloud":"",
+        "cloudinary_api":"",
+        "cloudinary_secret":""
+
+
+
+    }
+}
